@@ -1,0 +1,6 @@
+# correcto:
+node_modules/
+.env
+*.log
+dist/
+.vscode/
