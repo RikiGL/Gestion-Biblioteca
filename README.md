@@ -9,7 +9,7 @@ Este proyecto es parte de un sistema MERN para la gestión de una biblioteca. Es
 ### 1. Clonar el repositorio en una carpeta
 
 ```bash
-git clone https://github.com/Bidobelemti/aplicacionesweb-project
+git clone ......
 ```
 
 ### 2. Entrar a la carpeta del backend
